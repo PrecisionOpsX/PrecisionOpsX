@@ -131,6 +131,273 @@ I'm a **Full-Stack Engineer** with **20+ years of experience** building high-per
 
 ---
 
+## Portfolio
+
+A curated selection of production-ready projects across e-commerce, SaaS, mobile apps, CMS platforms, no-code builders, and AI-powered products.
+
+---
+
+### E-commerce
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://smithscoatings.com" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://smithscoatings.com" width="100%" alt="Smith's Coatings" />
+</a>
+<br/><br/>
+<a href="https://smithscoatings.com"><strong>Smith's Coatings</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/E--commerce-FF6C37?style=flat-square&logo=shopify&logoColor=white" />
+<br/>
+<sub>Custom React e-commerce storefront with dynamic product catalog</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://giovvani.com" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://giovvani.com" width="100%" alt="Giovvani" />
+</a>
+<br/><br/>
+<a href="https://giovvani.com"><strong>Giovvani</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+<br/>
+<sub>Premium Shopify store with custom theme & UX optimizations</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://thetibbarguy.com" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://thetibbarguy.com" width="100%" alt="The Tibbar Guy" />
+</a>
+<br/><br/>
+<a href="https://thetibbarguy.com"><strong>The Tibbar Guy</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+<br/>
+<sub>Shopify storefront with custom branding & conversion-focused design</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### Nuxt.js
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://webreinvent.com" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://webreinvent.com" width="100%" alt="WebReinvent" />
+</a>
+<br/><br/>
+<a href="https://webreinvent.com"><strong>WebReinvent</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+<br/>
+<sub>Tech agency platform with service showcases & interactive UI</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://11mirrors-hotel.com" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://11mirrors-hotel.com" width="100%" alt="11 Mirrors Hotel" />
+</a>
+<br/><br/>
+<a href="https://11mirrors-hotel.com"><strong>11 Mirrors Hotel</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+<br/>
+<sub>Luxury hotel website with booking flows & immersive visuals</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### WordPress
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://litesport.com" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://litesport.com" width="100%" alt="LiteSport" />
+</a>
+<br/><br/>
+<a href="https://litesport.com"><strong>LiteSport</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+<br/>
+<sub>Fitness gaming brand site with custom WordPress theme & e-commerce</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://nocogr.com" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://nocogr.com" width="100%" alt="NOCO" />
+</a>
+<br/><br/>
+<a href="https://nocogr.com"><strong>NOCO GR</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+<br/>
+<sub>Community & civic platform built on custom WordPress architecture</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### Webflow & Framer
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.potentialmotors.com" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://www.potentialmotors.com" width="100%" alt="Potential Motors" />
+</a>
+<br/><br/>
+<a href="https://www.potentialmotors.com"><strong>Potential Motors</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white" />
+<br/>
+<sub>EV startup landing with cinematic animations & CMS-driven content</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://qualisage.com" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://qualisage.com" width="100%" alt="Qualisage" />
+</a>
+<br/><br/>
+<a href="https://qualisage.com"><strong>Qualisage</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<br/>
+<sub>SaaS product site with polished motion design built in Framer</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### Next.js & React + Tailwind CSS
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://bravae.com" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://bravae.com" width="100%" alt="Bravae" />
+</a>
+<br/><br/>
+<a href="https://bravae.com"><strong>Bravae</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<br/>
+<sub>Modern web platform with SSR, clean design & performance optimization</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://zego.com" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://zego.com" width="100%" alt="Zego" />
+</a>
+<br/><br/>
+<a href="https://zego.com"><strong>Zego</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<br/>
+<sub>InsurTech SaaS platform with React front-end & Tailwind design system</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### Gatsby + Tailwind CSS
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://growsf.org" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://growsf.org" width="100%" alt="GrowSF" />
+</a>
+<br/><br/>
+<a href="https://growsf.org"><strong>GrowSF</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<br/>
+<sub>Civic advocacy platform with static site generation & optimized performance</sub>
+</td>
+<td align="center" width="50%">
+</td>
+</tr>
+</table>
+
+---
+
+### Fitness & Sports E-commerce
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.insportline.eu" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://www.insportline.eu" width="100%" alt="inSPORTline" />
+</a>
+<br/><br/>
+<a href="https://www.insportline.eu"><strong>inSPORTline</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/E--commerce-FF6C37?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Fitness-3DDC84?style=flat-square&logo=trainerroad&logoColor=white" />
+<br/>
+<sub>Large-scale fitness equipment e-commerce with 10k+ SKUs across Europe</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://www.christopeit-sport.com" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://www.christopeit-sport.com" width="100%" alt="Christopeit Sport" />
+</a>
+<br/><br/>
+<a href="https://www.christopeit-sport.com"><strong>Christopeit Sport</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/E--commerce-FF6C37?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Fitness-3DDC84?style=flat-square&logo=trainerroad&logoColor=white" />
+<br/>
+<sub>Premium German sports equipment brand with multilingual e-commerce</sub>
+</td>
+</tr>
+</table>
+
+---
+
+### Shopify Apps
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://apps.shopify.com/autopilotseo" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://apps.shopify.com/autopilotseo" width="100%" alt="Agent AI Blog Posts" />
+</a>
+<br/><br/>
+<a href="https://apps.shopify.com/autopilotseo"><strong>Agent AI — Blog Posts</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/Shopify_App-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<br/>
+<sub>AI-powered SEO blog post generator — auto-publishes content to Shopify stores</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://apps.shopify.com/crowdline" target="_blank">
+<img src="https://image.thum.io/get/width/600/crop/380/https://apps.shopify.com/crowdline" width="100%" alt="Crowdline" />
+</a>
+<br/><br/>
+<a href="https://apps.shopify.com/crowdline"><strong>Crowdline</strong></a>
+<br/>
+<img src="https://img.shields.io/badge/Shopify_App-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Social_Proof-6366F1?style=flat-square&logo=lightning&logoColor=white" />
+<br/>
+<sub>Social proof & live activity app that boosts conversion rates for Shopify merchants</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ## How I Work
 
 I bring a **product mindset** to every engagement — collaborating closely with designers, stakeholders, and cross-functional teams to ensure every feature delivers real business value, not just code.
